@@ -1,53 +1,48 @@
+# Christopher Olawepo Samuel
 
-<h1 align="center">Christopher Olawepo Samuel</h1>
+### Software Developer
 
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-  Building digital experiences through technology,
-  creativity and continuous learning.
-</p>
-
-<p align="center">
-  <a href="https://github.com/christopherolaweposamuel-coder">
-    GitHub Profile
-  </a>
-</p>
+Building digital experiences through technology, creativity and continuous learning.
 
 ---
 
-### About
+## About Me
 
-I am a software developer with an interest in building
-practical digital solutions and creating meaningful
-user experiences.
+I am a software developer interested in building practical digital solutions and creating meaningful user experiences.
 
-I enjoy exploring technology, solving problems and
-developing my programming skills through hands-on projects.
+I enjoy exploring technology, solving problems and developing my programming skills through hands-on projects.
 
-I believe in continuous learning, attention to detail
-and writing solutions that serve a purpose.
+I believe in continuous learning, attention to detail and creating solutions that serve a purpose.
 
-### Focus
+## Featured Projects
 
-- Software and web development
-- Problem-solving and logical thinking
+### 01. SAM TECH
+
+My first published website project.
+
+[View Live Website](https://sam-tech-website.vercel.app/)
+
+### 02. NOVA STUDIO
+
+A modern creative digital studio website featuring responsive layouts, project showcases and a functional contact form.
+
+[View Live Website](https://nova-studio-zeta-six.vercel.app/)
+
+---
+
+## Current Focus
+
 - Building practical digital projects
-- Continuous technical development
+- Improving software development skills
+- Exploring modern web experiences
+- Learning through experimentation and collaboration
 
-### Current Direction
+## Collaboration
 
-Expanding my development knowledge, strengthening my
-engineering foundation and working towards building
-reliable, user-focused applications.
-
-### Collaboration
-
-Open to learning opportunities, mentorship and
-meaningful collaborations with people in technology.
+Open to learning opportunities, mentorship and meaningful collaborations with people in technology.
 
 ---
 
 <p align="center">
-  <i>Learning. Building. Improving.</i>
+  <strong>Learning. Building. Improving.</strong>
 </p>
